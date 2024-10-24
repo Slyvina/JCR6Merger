@@ -1,0 +1,11 @@
+
+/WinExe
+MKL_*
+/.vs
+*.obj
+*.recipe
+*.tlog
+*.ilk
+*.log
+*.idb
+*.pdb
